@@ -2,7 +2,7 @@
 Signed average first-passage time (SAFT) calucation and network representation implemented in Matlab.
 
 ## Overview
-- `input/` contains splitted datasets;
+- `data/` contains splitted datasets;
 - `SAFT.m` is the calculation of SAFT;
 - `NetRpst.m` is the calculation of representations.
 
